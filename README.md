@@ -1,4 +1,4 @@
-# 🌐 Red de Donaciones Comunitarias
+# Red de Donaciones Comunitarias
 
 ## Descripción del Proyecto
 
